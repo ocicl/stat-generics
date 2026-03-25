@@ -4,6 +4,6 @@ Generic function definitions for statistical operations.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/stat-generics.git   |
-| commit  | 0000000                                               |
+| commit  | a5a9904                                               |
 | systems | stat-generics                                         |
 |---------+-------------------------------------------------------|
