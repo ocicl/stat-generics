@@ -1,0 +1,9 @@
+* stat-generics
+
+Generic function definitions for statistical operations.
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/stat-generics.git   |
+| commit  | 0000000                                               |
+| systems | stat-generics                                         |
+|---------+-------------------------------------------------------|
